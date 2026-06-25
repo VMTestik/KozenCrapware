@@ -1,6 +1,6 @@
 # KozenCrapware
 https://github.com/user-attachments/assets/a5c14d87-cc9c-49ac-8387-c5e67dc432fc
-### Some files for LineageOS on Kozen P10 and P12. NFC does not work (if you want to help, write an issue)
+### Some files for LineageOS on Kozen P10F and P12. NFC does not work (if you want to help, write an issue)
 ##### [Download](https://github.com/VMTestik/KozenCrapware/releases)
 
 > Also: at start i have built this crap for myself (and i never thought if will be interesting to anyone else), so, the OS is stripped down a little, browser removed, keyboard as well, maybe other things too
